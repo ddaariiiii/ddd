@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #898bff;
+}
+
+header{
+    text-align: center;
+    background-color: #6cf;
+    padding: 20px 0;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+
+h1{
+    text-align: center;
+    background-color: #6cf;
+    padding: 20px 0;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+h2{
+    text-align: center;
+    padding: 0%;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+p{
+    text-align: center;
+    margin: 0;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+main{
+padding: 20px;
+}
+
+.tablitsa{
+    width: 100%;
+    background-color: #898bff;
+    text-align: center;
+}
+
+.tablitsa td{
+    padding: 15px;
+    text-align: center;
+}
+
+.foto{
+text-align: center;
+padding: 20px;
+}
+
+.foto img{
+    margin-bottom: 10px;
+}
+
+.foto1{
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+    
+.foto1 img{
+    margin-bottom: 10px;    
+}
+    
+.foto1 h2{
+    margin: 5px 0;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+    
+.foto1 p{
+    margin: 0;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+#textt{
+    background-color: #5558ed;
+    text-align: center;
+}
